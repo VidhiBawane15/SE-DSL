@@ -12,3 +12,18 @@ Write a Python program to manage the borrowing records of books in a library. Im
 In an e-commerce system, customer account IDs are stored in a list, and you are tasked with writing a program that implements the following:
 • Linear Search: Check if a particular customer account ID exists in the list.
 • Binary Search: Implement Binary search to find if a customer account ID exists,improving the search efficiency over the basic linear
+
+#Practical 3: stack=>
+Implementing a real-time undo/redo system for a text editing application using a Stack datastructure. The system should support the following operations:
+• Make a Change: A new change to the document is made.
+• Undo Action: Revert the most recent change and store it for potential redo.
+• Redo Action: Reapply the most recently undone action.
+• Display Document State: Show the current state of the document after undoing or redoing an action
+
+#Practical 4: queueu=>
+Implement a real-time event processing system using a Queue data structure. The system should support the following features:
+• Add an Event: When a new event occurs, it should be added to the event queue.
+• Process the Next Event: The system should process and remove the event that has been in the queue the longest.
+• Display Pending Events: Show all the events currently waiting to be processed.
+• Cancel an Event: An event can be canceled if it has not been processed.
+
