@@ -27,3 +27,18 @@ Implement a real-time event processing system using a Queue data structure. The 
 • Display Pending Events: Show all the events currently waiting to be processed.
 • Cancel an Event: An event can be canceled if it has not been processed.
 
+#Practical 5:Hashing=>
+Implement a hash table of size 10 and use the division method as a hash function. 
+In case of a collision, use chaining. Implement the following operations:
+• Insert(key): Insert key-value pairs into the hash table. 
+• Search(key): Search for the value associated with a given key.
+• Delete(key): Delete a key-value pair from the hash table
+
+#Practical 6=> BFS
+Consider a particular area in your city. Note the popular locations A, B, C . . . in that area.
+Assume these locations represent nodes of a graph. If there is a route between two locations,
+it is represented as connections between nodes. Find out the sequence in which you will
+visit these locations, starting from (say A) using (i) BFS and (ii) DFS. Represent a given
+graph using an adjacency matrix to perform DFS and an adjacency list to perform BFS
+
+
